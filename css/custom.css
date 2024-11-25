@@ -1,0 +1,17 @@
+.content__projects, .content__projects h1 {
+    color: white !important;
+}
+
+.content__projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.content__projects a {
+    text-align: center;
+}
+.content__projects a:hover {
+    color: white;
+}
